@@ -19,5 +19,5 @@ SQLite/BigQuery
 Power BI 
 
 
-Matt van Heerden (Business Analyst, aspiring Data & AI Wizard)
+
 
